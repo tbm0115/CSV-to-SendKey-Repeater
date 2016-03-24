@@ -1,0 +1,17 @@
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\CSV-to-SendKey Repeater\CSV-to-SendKey Repeater\bin\Debug\CSV-to-SendKey Repeater.exe.config
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\CSV-to-SendKey Repeater\CSV-to-SendKey Repeater\bin\Debug\CSV-to-SendKey Repeater.exe
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\CSV-to-SendKey Repeater\CSV-to-SendKey Repeater\bin\Debug\CSV-to-SendKey Repeater.pdb
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\CSV-to-SendKey Repeater\CSV-to-SendKey Repeater\bin\Debug\CSV-to-SendKey Repeater.xml
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\CSV-to-SendKey Repeater\CSV-to-SendKey Repeater\obj\Debug\CSV_to_SendKey_Repeater.Main.resources
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\CSV-to-SendKey Repeater\CSV-to-SendKey Repeater\obj\Debug\CSV_to_SendKey_Repeater.Resources.resources
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\CSV-to-SendKey Repeater\CSV-to-SendKey Repeater\obj\Debug\CSV-to-SendKey Repeater.vbproj.GenerateResource.Cache
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\CSV-to-SendKey Repeater\CSV-to-SendKey Repeater\obj\Debug\CSV-to-SendKey Repeater.exe
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\CSV-to-SendKey Repeater\CSV-to-SendKey Repeater\obj\Debug\CSV-to-SendKey Repeater.xml
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\CSV-to-SendKey Repeater\CSV-to-SendKey Repeater\obj\Debug\CSV-to-SendKey Repeater.pdb
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\CSV-to-SendKey Repeater\CSV-to-SendKey Repeater\obj\Debug\CSV_to_SendKey_Repeater.Run.resources
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\CSV-to-SendKey Repeater\CSV-to-SendKey Repeater\bin\Debug\CSV-to-SendKey Repeater.exe.manifest
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\CSV-to-SendKey Repeater\CSV-to-SendKey Repeater\bin\Debug\CSV-to-SendKey Repeater.application
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\CSV-to-SendKey Repeater\CSV-to-SendKey Repeater\obj\Debug\CSV-to-SendKey Repeater.TrustInfo.xml
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\CSV-to-SendKey Repeater\CSV-to-SendKey Repeater\obj\Debug\CSV-to-SendKey Repeater.exe.manifest
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\CSV-to-SendKey Repeater\CSV-to-SendKey Repeater\obj\Debug\CSV-to-SendKey Repeater.application
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\CSV-to-SendKey Repeater\CSV-to-SendKey Repeater\obj\Debug\CSV_to_SendKey_Repeater.View_Send_Keys.resources
